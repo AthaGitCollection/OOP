@@ -1,5 +1,3 @@
-package OOP.Jobsheet04;
-
 public class Sopir {
     private String nama;
     private int biaya;

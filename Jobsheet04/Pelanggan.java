@@ -1,5 +1,3 @@
-package OOP.Jobsheet04;
-
 public class Pelanggan {
     private String nama;
     private Mobil mobil;

@@ -1,5 +1,3 @@
-package OOP.Jobsheet04;
-
 public class MainPercobaan1 {
     public static void main(String[] args) {
         Processor p = new Processor("Intel i5", 3);

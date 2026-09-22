@@ -14,7 +14,7 @@ public class Anggota {
     public void setAlamat(String alamat){
         this.alamat = alamat;
     }
-    public String getNama(){
+    public String getNama(){ 
         return nama;
     }
     public String getAlamat(){

@@ -1,5 +1,3 @@
-package OOP.Jobsheet04;
-
 public class Laptop {
     private String merk;
     private Processor proc;
@@ -27,5 +25,14 @@ public class Laptop {
         proc.info();
         
             }
+    public void setRam(int i) {
+        throw new UnsupportedOperationException("Unimplemented method 'setRam'");
+    }
+    public void printInfo() {
+        throw new UnsupportedOperationException("Unimplemented method 'printInfo'");
+    }
+    public void setBrand(String string) {
+        throw new UnsupportedOperationException("Unimplemented method 'setBrand'");
+    }
         }
 

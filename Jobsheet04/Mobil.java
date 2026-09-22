@@ -1,5 +1,3 @@
-package OOP.Jobsheet04;
-
 public class Mobil {
     private String merk;
     private int biaya;

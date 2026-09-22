@@ -1,5 +1,3 @@
-package OOP.Jobsheet04;
-
 public class Processor {
     private String merk;
     private double cache;

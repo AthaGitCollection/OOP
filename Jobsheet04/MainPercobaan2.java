@@ -1,4 +1,3 @@
-package OOP.Jobsheet04;
 
 public class MainPercobaan2 {
     public static void main(String[] args) {
