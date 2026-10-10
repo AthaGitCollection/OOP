@@ -1,0 +1,10 @@
+package OOP.Jobsheet07.Task1;
+
+public class Dosen extends Manusia {
+    public void makan() {
+        System.out.println("Dosen makan di kantin dosen");
+    }
+    public void lembur() {
+        System.out.println("Dosen sedang lembur");
+    }
+}
