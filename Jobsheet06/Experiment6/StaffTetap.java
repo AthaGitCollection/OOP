@@ -8,8 +8,7 @@ public class StaffTetap extends Staff {
 
     public StaffTetap(){
     }
-    public StaffTetap(String nama, String alamat, String jk, int umur,
-                      int gaji, int lembur, int potongan, String golongan, int asuransi){
+    public StaffTetap(String nama, String alamat, String jk, int umur,int gaji, int lembur, int potongan, String golongan, int asuransi){
         super(nama, alamat, jk, umur, gaji, potongan, lembur);
         this.golongan = golongan;
         this.asuransi = asuransi;
